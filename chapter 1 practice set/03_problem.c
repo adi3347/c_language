@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main(){
+    float c,f;
+    printf("enter the value of c\n",c);
+    scanf("%f", &c);
+    f = ((9.0/5.0))*c + 32;
+    printf("the value of c in f is %f",f);
+
+    return 0;
+}
+
+
