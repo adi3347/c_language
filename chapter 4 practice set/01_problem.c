@@ -9,4 +9,8 @@ int main(){
     }
     return 0;
 }
+/* this prompt asks the user to input a number and then it prints the multiplication of that number from 1 to 10. 
+The program uses a for loop to iterate through the numbers 1 to 10 and prints the result of multiplying the input number by each 
+of those numbers.
 
+*/
