@@ -28,3 +28,7 @@ int main(void) {
     
     return 0;
 }
+/* This is a simple number guessing game where the user has to guess a random number between 1 and 1000. 
+The program will give feedback on whether the guess is too high, too low, or correct, and it will keep track of the number of
+ guesses the user makes.
+*/
